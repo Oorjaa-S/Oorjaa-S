@@ -1,61 +1,82 @@
-# Hi 👋, I'm Oorjaa 
+# 💫 About Me
 
-### Building AI-powered applications, backend systems, and full-stack solutions
+Aspiring AI & Software Engineer | Building Intelligent Systems with Python and Machine Learning
 
-- 🔭 I'm currently working on **AI-powered applications, full-stack development projects, and strengthening my Data Structures & Algorithms skills.**
+🔭 Currently working on AI-powered applications, machine learning projects, and full-stack web solutions.
 
-- 🌱 I'm currently learning **Python for AI, Machine Learning, Scikit-Learn, Data Analysis, SQL, FastAPI, React, and AWS Cloud Fundamentals.**
+🌱 Currently learning Machine Learning, Scikit-Learn, FastAPI, AWS Cloud, Data Structures & Algorithms, and AI application development.
 
-- 👯 I'm looking to collaborate on **AI, Machine Learning, Python, and open-source software projects.**
+👯 Looking to collaborate on AI, Machine Learning, Python, and open-source software projects.
 
-- 🤝 I'm looking for help with **Machine Learning, AI application development, and scalable software systems.**
+🤝 Looking for help with Machine Learning engineering, scalable AI systems, and software architecture.
 
-- 💬 Ask me about **Python, SQL, APIs, FastAPI, Data Processing, and AI Fundamentals.**
+💬 Ask me about Python, SQL, APIs, Flask, FastAPI, NLP, and AI fundamentals.
 
-- 📫 How to reach me **oorjaa.star@gmail.com**
+📫 Reach me at: **oorjaa.star@gmail.com**
 
-- ⚡ Fun fact **Interested in how AI and psychology can be combined to better understand human behavior.**
+⚡ Interested in how AI and psychology can be combined to better understand human behavior.
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Oorjaa-S](https://github.com/Oorjaa-S)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Oorjaa-S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Oorjaa-S" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oorjaa-sonthalia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oorjaa-sonthalia/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/oorjaasonthalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/oorjaasonthalia" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user0773Fs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user0773Fs/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,java,js,c,cpp" />
-</p>
+## 🚀 Featured Projects
 
-<h3 align="left">AI / Machine Learning & Data Science</h3>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
+### 🛡️ Privacy-Preserving AI Chatbot
+NLP-based chatbot with automated PII detection and masking using spaCy NER, regex preprocessing, and privacy-preserving response pipelines.
 
-<h3 align="left">Backend Development</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-</p>
+### 🤖 Adaptive AI To-Do List
+AI-assisted task management application with Flask, Google API integration, task breakdown, and workflow management features.
 
-<h3 align="left">Frontend Development</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+### 🌐 Personal Portfolio
+Responsive React-based portfolio showcasing projects, technical experience, and software engineering work.
 
-<h3 align="left">Databases</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</p>
+---
 
-<h3 align="left">Cloud & Tools</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,figma" />
-</p>
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oorjaa-sonthalia)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/Oorjaa-S)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/user0773Fs)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### AI & Data Science
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Backend Development
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Oorjaa-S&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Oorjaa-S&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oorjaa-S&theme=tokyonight&hide_border=true&layout=compact)
