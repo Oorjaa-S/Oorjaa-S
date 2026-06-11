@@ -78,8 +78,6 @@ Responsive React-based portfolio showcasing projects, technical experience, and 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Oorjaa-S&theme=tokyonight&hide_border=true&include_all_commits=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oorjaa-S&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oorjaa-S&theme=tokyonight&hide_border=true&layout=compact)
